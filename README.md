@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="./intro.svg" width="840" alt="Eugene — data analysis, Warsaw, Poland. Learning Excel, SQL and Power BI." />
+  <img src="./intro.svg" width="840" alt="Eugene — Junior Data Analyst based in Warsaw, Poland. Focus: Excel, SQL and Power BI." />
 </p>
 
 ### Hi, I'm Eugene
 
-I'm based in Warsaw, Poland, and developing my skills in data analysis.
-My current learning focus is **Excel → SQL → Power BI**.
+I'm a **Junior Data Analyst based in Warsaw, Poland**.
+My interests include data cleaning, SQL analysis and data visualisation.
+I'm continuing to develop my skills in **Excel, SQL and Power BI**.
 
 ### Projects and practice
 
