@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-labelledby="title desc">
-  <title id="title">Eugene — data analysis</title>
-  <desc id="desc">Terminal introduction. Based in Warsaw, Poland. Learning Excel, SQL and Power BI. A brief reveal animation plays once.</desc>
+  <title id="title">Eugene — Junior Data Analyst</title>
+  <desc id="desc">Terminal introduction. Eugene is a Junior Data Analyst based in Warsaw, Poland. Focus: Excel, SQL and Power BI. A brief reveal animation plays once.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace; }
     @media (prefers-reduced-motion: reduce) { .reveal { clip-path: none; } }
@@ -25,10 +25,10 @@
     <text y="29" fill="#f0f6fc" font-size="30" font-weight="700">Eugene</text>
   </g>
   <g transform="translate(28 159)" class="reveal" clip-path="url(#line3)">
-    <text y="25" fill="#c9d1d9" font-size="20">Data analysis · Warsaw, Poland</text>
+    <text y="25" fill="#c9d1d9" font-size="20">Junior Data Analyst · Warsaw, Poland</text>
   </g>
   <g transform="translate(28 207)" class="reveal" clip-path="url(#line4)">
-    <text y="25" fill="#79c0ff" font-size="20">Learning: Excel → SQL → Power BI</text>
+    <text y="25" fill="#79c0ff" font-size="20">Focus: Excel · SQL · Power BI</text>
   </g>
   <text x="28" y="278" fill="#8b949e" font-size="13">Projects and practice ↓</text>
 </svg>
