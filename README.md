@@ -27,4 +27,3 @@ I'm continuing to develop my skills in **Excel, SQL and Power BI**.
 
 [View my certificates](https://github.com/eugenetur/Certificates)
 
-<sub>Terminal-style design inspired by [Avi Vashishta's tutorial](https://www.avivashishta.com/blog/build-animated-github-profile-readme).</sub>
