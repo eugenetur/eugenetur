@@ -1,10 +1,19 @@
-<p align="center">
-  <img src="./intro.svg" width="840" alt="Eugene — Junior Data Analyst based in Warsaw, Poland. Focus: Excel, SQL and Power BI." />
-</p>
+<div align="center">
+
+<h3><code>eugenetur@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./eugene-ascii.svg" width="420" alt="Eugene Tur — animated ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Eugene Tur — Junior Data Analyst. Work tools: Excel, PowerPoint and Microsoft 365 Copilot. Developing SQL, Power BI and Tableau." /></td>
+</tr>
+</table>
+
+</div>
 
 ### Hi, I'm Eugene
 
-I'm a **Junior Data Analyst based in Warsaw, Poland**.
+I'm a **Junior Data Analyst**.
 My interests include data cleaning, SQL analysis and data visualisation.
 I'm continuing to develop my skills in **Excel, SQL and Power BI**.
 
